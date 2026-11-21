@@ -23809,7 +23809,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 099db94709c568e458a6557ecb052330, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TamagotchiFactory.DeliveryZone
-  zoneType: 0
+  zoneType: 2
   acceptedModel: {fileID: 0}
   onDecision:
     m_PersistentCalls:
@@ -35442,7 +35442,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 099db94709c568e458a6557ecb052330, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TamagotchiFactory.DeliveryZone
-  zoneType: 0
+  zoneType: 1
   acceptedModel: {fileID: 0}
   onDecision:
     m_PersistentCalls:
