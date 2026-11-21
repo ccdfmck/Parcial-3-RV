@@ -23521,7 +23521,7 @@ GameObject:
   - component: {fileID: 1431265935}
   - component: {fileID: 1431265936}
   m_Layer: 0
-  m_Name: Zone_BeltEnd
+  m_Name: Zone_FinalBanda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33270,7 +33270,7 @@ GameObject:
   - component: {fileID: 2023894869}
   - component: {fileID: 2023894870}
   m_Layer: 0
-  m_Name: Zone_Disposal
+  m_Name: Zone_Desecho
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35123,7 +35123,7 @@ GameObject:
   - component: {fileID: 2104031105}
   - component: {fileID: 2104031106}
   m_Layer: 0
-  m_Name: Zone_Box_1 ... 5
+  m_Name: Zone_Caja Tamagotchi 1 ... 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
