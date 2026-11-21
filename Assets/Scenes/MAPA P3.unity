@@ -23753,6 +23753,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1431265934}
   - component: {fileID: 1431265935}
+  - component: {fileID: 1431265936}
   m_Layer: 0
   m_Name: Zone_BeltEnd
   m_TagString: Untagged
@@ -23790,12 +23791,29 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1431265936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1431265933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099db94709c568e458a6557ecb052330, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TamagotchiFactory.DeliveryZone
+  zoneType: 0
+  acceptedModel: {fileID: 0}
+  onDecision:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &1433199799
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33515,6 +33533,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2023894868}
   - component: {fileID: 2023894869}
+  - component: {fileID: 2023894870}
   m_Layer: 0
   m_Name: Zone_Disposal
   m_TagString: Untagged
@@ -33552,12 +33571,29 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2023894870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2023894867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099db94709c568e458a6557ecb052330, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TamagotchiFactory.DeliveryZone
+  zoneType: 0
+  acceptedModel: {fileID: 0}
+  onDecision:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &2031617628
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35350,6 +35386,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2104031104}
   - component: {fileID: 2104031105}
+  - component: {fileID: 2104031106}
   m_Layer: 0
   m_Name: Zone_Box_1 ... 5
   m_TagString: Untagged
@@ -35387,12 +35424,29 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2104031106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2104031103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099db94709c568e458a6557ecb052330, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TamagotchiFactory.DeliveryZone
+  zoneType: 0
+  acceptedModel: {fileID: 0}
+  onDecision:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &2108485902
 PrefabInstance:
   m_ObjectHideFlags: 0
