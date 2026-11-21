@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TamagotchiFactory.ProductData
   id: tama2
   displayName: Tamagotchi 2
-  prefab: {fileID: 0}
+  prefab: {fileID: 4445921631001399091, guid: 6834846013c1b394eb17a1b285ce928a, type: 3}
   baseColor: {r: 0.94275117, g: 0, b: 1, a: 1}
   icon: {fileID: 0}
