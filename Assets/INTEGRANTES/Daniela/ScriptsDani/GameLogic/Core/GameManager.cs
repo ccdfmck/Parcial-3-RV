@@ -43,7 +43,11 @@ namespace TamagotchiFactory
             Instance = this;
         }
 
-        private void Start() => ChangeState(initialState);
+        private void Start()
+        {
+            if (initialState == GameState.Playing) StartGame();   // inicializa tiempo y puntaje
+            else ChangeState(initialState);
+        }
 
         private void OnDestroy() { if (Instance == this) Instance = null; }
 
