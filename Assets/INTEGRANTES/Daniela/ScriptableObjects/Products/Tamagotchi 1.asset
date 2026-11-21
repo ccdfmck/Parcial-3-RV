@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 556de1acae43de64dbc10fe554e9a035, type: 3}
   m_Name: Tamagotchi 1
   m_EditorClassIdentifier: Assembly-CSharp::TamagotchiFactory.ProductData
-  id: 
+  id: tama1
   displayName: 
   prefab: {fileID: 0}
   baseColor: {r: 1, g: 0.62911344, b: 0, a: 1}
