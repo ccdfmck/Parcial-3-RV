@@ -5,6 +5,34 @@ TagManager:
   serializedVersion: 3
   tags:
   - Pila
+  - Buttons
+  - Display
+  - Front
+  - Hatch
+  - Holder
+  - Keyring
+  - PCB
+  - Rear
+  - Scew01
+  - Screw02
+  - Screw03
+  - Screw04
+  - Screw05
+  - Screw06
+  - Screw07
+  - Screw08
+  - Screw09
+  - Speaker
+  - Battery
+  - Assembled
+  - P_RSG_VirtualPet_PCB
+  - P_RSG_VirtualPet_Front
+  - P_RSG_VirtualPet_Display
+  - P_RSG_VirtualPet_Buttons
+  - P_RSG_VirtualPet_Speaker
+  - P_RSG_VirtualPet_Battery
+  - P_RSG_VirtualPet_Hatch
+  - AttachPoint
   layers:
   - Default
   - TransparentFX
@@ -44,3 +72,4 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
+  m_MigratedRenderPipelines: []
