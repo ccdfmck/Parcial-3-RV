@@ -471,64 +471,11 @@ MonoBehaviour:
     m_DynamicPanelBehavior: 0
     m_DynamicPanelBehaviorModified: 0
   m_ViewTransforms:
-    m_KeySerializationHelper:
-    - {fileID: 3895639761146188886, guid: 7f5a8130d8f62724ba0edb617198c43a, type: 2}
-    - {fileID: 4587322576797742064, guid: 6d96d6958b8363245bd13bdf2aa2b5af, type: 2}
-    - {fileID: -5825653727912342691, guid: d5f426850e69cef4aab7e1a3d86128d1, type: 2}
-    m_ValueSerializationHelper:
-    - e00: 0.95550627
-      e01: 0
-      e02: 0
-      e03: -14.550379
-      e10: 0
-      e11: 0.95550627
-      e12: 0
-      e13: 57.08799
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 0.61949795
-      e01: 0
-      e02: 0
-      e03: 69.23703
-      e10: 0
-      e11: 0.61949795
-      e12: 0
-      e13: 120.966095
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
+    m_KeySerializationHelper: []
+    m_ValueSerializationHelper: []
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: d5f426850e69cef4aab7e1a3d86128d1, type: 2}
-  m_BreadCrumbs:
-  - m_Target: {fileID: -5825653727912342691, guid: d5f426850e69cef4aab7e1a3d86128d1, type: 2}
-    m_ScrollPosition: {x: 0, y: 0}
+  m_AnimatorController: {fileID: 0}
+  m_BreadCrumbs: []
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
   blendTreeGraph: {fileID: 0}
@@ -616,7 +563,31 @@ MonoBehaviour:
       m_rawData: 1099511677740
     m_ExpandedIDs:
     - m_rawData: 0
-    - m_rawData: 1099511657093
+    - m_rawData: 1099511666807
+    - m_rawData: 1099511666808
+    - m_rawData: 1099511666809
+    - m_rawData: 1099511666810
+    - m_rawData: 1099511666811
+    - m_rawData: 1099511666812
+    - m_rawData: 1099511666813
+    - m_rawData: 1099511666814
+    - m_rawData: 1099511666815
+    - m_rawData: 1099511666816
+    - m_rawData: 1099511666817
+    - m_rawData: 1099511666818
+    - m_rawData: 1099511666819
+    - m_rawData: 1099511666820
+    - m_rawData: 1099511666821
+    - m_rawData: 1099511666822
+    - m_rawData: 1099511666823
+    - m_rawData: 1099511666824
+    - m_rawData: 1099511666825
+    - m_rawData: 1099511666826
+    - m_rawData: 1099511666827
+    - m_rawData: 1099511666828
+    - m_rawData: 1099511666829
+    - m_rawData: 1099511666830
+    - m_rawData: 1099511666831
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -650,7 +621,31 @@ MonoBehaviour:
       m_rawData: 0
     m_ExpandedIDs:
     - m_rawData: 0
-    - m_rawData: 1099511657093
+    - m_rawData: 1099511666807
+    - m_rawData: 1099511666808
+    - m_rawData: 1099511666809
+    - m_rawData: 1099511666810
+    - m_rawData: 1099511666811
+    - m_rawData: 1099511666812
+    - m_rawData: 1099511666813
+    - m_rawData: 1099511666814
+    - m_rawData: 1099511666815
+    - m_rawData: 1099511666816
+    - m_rawData: 1099511666817
+    - m_rawData: 1099511666818
+    - m_rawData: 1099511666819
+    - m_rawData: 1099511666820
+    - m_rawData: 1099511666821
+    - m_rawData: 1099511666822
+    - m_rawData: 1099511666823
+    - m_rawData: 1099511666824
+    - m_rawData: 1099511666825
+    - m_rawData: 1099511666826
+    - m_rawData: 1099511666827
+    - m_rawData: 1099511666828
+    - m_rawData: 1099511666829
+    - m_rawData: 1099511666830
+    - m_rawData: 1099511666831
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1821,7 +1816,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -8.74, y: 4.4, z: 14.362278}
+    m_Target: {x: -9.68266, y: 5.793604, z: 28.694847}
     speed: 2
     m_Value: {x: -8.74, y: 4.4, z: 14.362278}
   m_RenderMode: 0
@@ -1870,11 +1865,11 @@ MonoBehaviour:
     m_gridOpacity: 0.5
     m_NearestPlaneToHandleMode: 0
   m_Rotation:
-    m_Target: {x: -0.2552095, y: -0.54039234, z: 0.17632568, w: -0.7821549}
+    m_Target: {x: 0.057870694, y: -0.057870068, z: 0.003361826, w: 0.99664456}
     speed: 2
     m_Value: {x: 0.2552095, y: 0.5403923, z: -0.17632566, w: 0.78215486}
   m_Size:
-    m_Target: 29.809576
+    m_Target: 10.046715
     speed: 2
     m_Value: 29.809576
   m_Ortho:
