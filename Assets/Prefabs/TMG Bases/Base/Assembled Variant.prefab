@@ -823,7 +823,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2469522350945455088, guid: d816670d59dacb748b4d0fdc8976a78e, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2469522350945455088, guid: d816670d59dacb748b4d0fdc8976a78e, type: 3}
       propertyPath: m_ThrowOnDetach
@@ -891,7 +891,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4662399222271605316, guid: d816670d59dacb748b4d0fdc8976a78e, type: 3}
       propertyPath: m_IsKinematic
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
